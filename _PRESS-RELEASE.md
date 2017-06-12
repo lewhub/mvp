@@ -17,31 +17,22 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Zodiac App ##
-  <!--> Easily create industry standard beats and upload your songs to your soundcloud profile straight from the app.-->
+ 
 
-## For those who love listening to hip hop ##
-  <!--> The market for this product is rap artists and producers who want to quickly make a beat and record a freestyle and release their music to their fans through soundcloud.-->
+## For those who read Horoscopes every day ##
 
 ## Summary ##
-  <!--> This product allows users to record music and beats from their phone and upload their creations via soundcloud. Users can sign up and press record to begin the process. 
-  > While recording, a user can tap buttons on the screen that are individually associated with different sounds. After recording a user can view a list of songs that they have recorded and
-  > upload their songs to soundcloud.-->
+  
 
 ## Problem ##
-  <!--> With this app, artists no longer have to buy a physical $400 midi pad in order to record beats and freestlyes and can instead opt to download this free app and start making 
-  > music anytime and anywhere.-->
+
 
 ## Solution ##
-  <!--> With this app, anyone has the power to create great music and gain a fan base. With MIDI Beats, anyone can create a hit rap song and upload their songs to SoundCloud for the world to hear.-->
 
 ## Quote from Lewis Bracey ##
-  <!--> "With MIDI Beats, the next Metro Boomin or Sonny Digital could be you!"-->
 
 ## How to Get Started ##
-  <!--> Describe how easy it is to get started.-->
 
 ## Customer Quote ##
-  <!--> "With MIDI Beats, I was able to gather a large fan base rather quickly and show my talent to the world."-->
 
 ## Closing and Call to Action ##
-  <!--> MIDI Beats is currently in Beta testing and will look to be released later this year.-->
