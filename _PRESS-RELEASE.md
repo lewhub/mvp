@@ -1,4 +1,3 @@
-
 # MVP - Hack Reactor LA 15 - Created by Lewis Bracey #
 
 <!-- 
@@ -37,7 +36,3 @@ Once the project moves into development, the press release can be used as a touc
 ## Customer Quote ##
 
 ## Closing and Call to Action ##
-
-#mvp
-This is a project I completed as a student at [hackreactor](http://hackreactor.com). This project was worked on with a pair.
-
