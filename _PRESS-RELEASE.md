@@ -16,32 +16,32 @@ Oh, and I also like to write press-releases in what I call "Oprah-speak" for mai
 Once the project moves into development, the press release can be used as a touchstone; a guiding light. The product team can ask themselves, "Are we building what is in the press release?" If they find they're spending time building things that aren't in the press release (overbuilding), they need to ask themselves why. This keeps product development focused on achieving the customer benefits and not building extraneous stuff that takes longer to build, takes resources to maintain, and doesn't provide real customer benefit (at least not enough to warrant inclusion in the press release).
  -->
  
-## MIDI Beats ##
-  > Easily create industry standard beats and upload your songs to your soundcloud profile straight from the app.
+## Zodiac App ##
+  <!--> Easily create industry standard beats and upload your songs to your soundcloud profile straight from the app.-->
 
 ## For those who love listening to hip hop ##
-  > The market for this product is rap artists and producers who want to quickly make a beat and record a freestyle and release their music to their fans through soundcloud.
+  <!--> The market for this product is rap artists and producers who want to quickly make a beat and record a freestyle and release their music to their fans through soundcloud.-->
 
 ## Summary ##
-  > This product allows users to record music and beats from their phone and upload their creations via soundcloud. Users can sign up and press record to begin the process. 
+  <!--> This product allows users to record music and beats from their phone and upload their creations via soundcloud. Users can sign up and press record to begin the process. 
   > While recording, a user can tap buttons on the screen that are individually associated with different sounds. After recording a user can view a list of songs that they have recorded and
-  > upload their songs to soundcloud.
+  > upload their songs to soundcloud.-->
 
 ## Problem ##
-  > With this app, artists no longer have to buy a physical $400 midi pad in order to record beats and freestlyes and can instead opt to download this free app and start making 
-  > music anytime and anywhere.
+  <!--> With this app, artists no longer have to buy a physical $400 midi pad in order to record beats and freestlyes and can instead opt to download this free app and start making 
+  > music anytime and anywhere.-->
 
 ## Solution ##
-  > With this app, anyone has the power to create great music and gain a fan base. With MIDI Beats, anyone can create a hit rap song and upload their songs to SoundCloud for the world to hear.
+  <!--> With this app, anyone has the power to create great music and gain a fan base. With MIDI Beats, anyone can create a hit rap song and upload their songs to SoundCloud for the world to hear.-->
 
 ## Quote from Lewis Bracey ##
-  > "With MIDI Beats, the next Metro Boomin or Sonny Digital could be you!"
+  <!--> "With MIDI Beats, the next Metro Boomin or Sonny Digital could be you!"-->
 
 ## How to Get Started ##
-  > Describe how easy it is to get started.
+  <!--> Describe how easy it is to get started.-->
 
 ## Customer Quote ##
-  > "With MIDI Beats, I was able to gather a large fan base rather quickly and show my talent to the world."
+  <!--> "With MIDI Beats, I was able to gather a large fan base rather quickly and show my talent to the world."-->
 
 ## Closing and Call to Action ##
-  > MIDI Beats is currently in Beta testing and will look to be released later this year.
+  <!--> MIDI Beats is currently in Beta testing and will look to be released later this year.-->
