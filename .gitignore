@@ -1,11 +1,12 @@
-<<<<<<< HEAD
+
 # Specifies intentionally untracked files to ignore when using Git
 # http://git-scm.com/docs/gitignore
 
 node_modules/
 platforms/
 plugins/
-=======
+.env
+
 ### node etc ###
 
 # Logs
@@ -33,7 +34,6 @@ dist/
 # Dependency directorys
 # Deployed apps should consider commenting these lines out:
 # see https://npmjs.org/doc/faq.html#Should-I-check-my-node_modules-folder-into-git
-node_modules/
 bower_components/
 
 # Floobits
@@ -41,4 +41,4 @@ bower_components/
 .floobit
 .floo
 .flooignore
->>>>>>> 1f35595ae29b41ec664117b6d54f9b24a340245a
+
