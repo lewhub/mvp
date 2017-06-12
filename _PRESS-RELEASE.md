@@ -1,4 +1,4 @@
-# MVP - Hack Reactor LA 15 #
+# MVP - Hack Reactor LA 15 - Created by Lewis Bracey #
 
 <!-- 
 > This material was originally posted [here](http://www.quora.com/What-is-Amazons-approach-to-product-development-and-product-management). It is reproduced here for posterities sake.
