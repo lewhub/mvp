@@ -18,21 +18,29 @@ Once the project moves into development, the press release can be used as a touc
  
 ## Zodiac App ##
  
-
 ## For those who read Horoscopes every day ##
+> Recieve regular curated content based on your Zodiac sign.
 
 ## Summary ##
-  
+> This app allows users to view daily updated content about their horoscope sign. It gives you something to look at everyday that is personalized to you, after all
+> one's zodiac sign is based off of their birthday. User's can create an account and see their horoscope reading based on their sign.
 
 ## Problem ##
-
+> Many times, when you want to view your horoscope, you have to scan through all 12 signs until you find yours. With this app, all the content you see once
+> you log in is for your specific sign.
 
 ## Solution ##
+> This product elegantly solves this problem because it saves the user's birthday and generates user specifc content to the client by accessing an api that 
+> gets updated daily with new content for each zodiac sign.
 
 ## Quote from Lewis Bracey ##
+> "Zodiac is awesome!"
 
 ## How to Get Started ##
+> A user can quickly create an account and start reading their horoscope in less than 2 minutes. 
 
 ## Customer Quote ##
+> "I like the breakup of catagories when I'm reading my daily horoscope, like Travel, Luck, and Health."
 
 ## Closing and Call to Action ##
+> Zodiac is currently in Beta and is set to be realeased soon.
