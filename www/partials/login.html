@@ -1,0 +1,23 @@
+ <div class='bar bar-header'>
+    <h1 class='title'>Zodiac</h1>
+  </div>
+  <div class='bar bar-subheader'>
+    <h2 class='title'> Please Login </h2>
+  </div>
+<ion-content>
+  <br><br><br><br><br><br>
+  <div class='list'>
+    <label class='item item-input'>
+      <input type="email" placeholder='Email:' ng-model='login_ctrl.userInfo.email'>
+    </label>
+    <label class='item item-input'>
+      <input type='password' placeholder='Enter Password:' ng-model='login_ctrl.userInfo.password'>
+    </label>
+  </div>
+  <div class='row'>
+    <button class='col col-33 col-offset-10 button button-outline button-calm' ng-click='login_ctrl.userClickedLogin()'>Login</button>
+    <div class='or-div'>Or</div>
+    <!-- margin-top: 24px -->
+    <button class='col col-33 button button-outline button-calm' ui-sref='signup'>Signup</button>      
+  </div>
+</ion-content>

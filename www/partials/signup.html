@@ -1,0 +1,28 @@
+<div class='bar bar-header'>
+  <h1 class='title'>Zodiac</h1>
+</div>
+<div class='bar bar-subheader'>
+  <h2 class='title'>Create an account</h2>
+</div>
+<ion-content>
+  <br><br><br><br><br><br>
+  <div class='list'>
+    <label class='item item-input'>
+      <input type="email" placeholder='Email:' ng-model='signup_ctrl.newUserInfo.email'>
+    </label>
+    <label class='item item-input'>
+      <input type='date' ng-model='signup_ctrl.newUserInfo.birthday'>
+    </label>
+    <label class='item item-input'>
+      <input type="password" placeholder='Create a password:' ng-model='signup_ctrl.newUserInfo.password'>
+    </label>
+    <label class='item item-input'>
+      <input type="password" placeholder='Confirm your password:' ng-model='signup_ctrl.confirm_new_password'>
+    </label>
+  </div>
+  <div class='row'>
+    <button class='col col-33 col-offset-10 button button-clear button-royal' ng-click='signup_ctrl.userClickedSignup()'>Sign Up!</button>
+    <div class='or-div'>Or</div>
+    <button class='col col-33 button button-clear button-royal' ui-sref='login'>Login</button>
+  </div>
+</ion-content>

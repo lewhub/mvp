@@ -1,1 +1,26 @@
-/* Empty. Add your own CSS if you like */
+.or-div {
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 28px;
+  font-size: 20px;
+}
+
+.modal.bottom-sheet {
+  top: 34% !important;
+  display: none;
+}
+
+.edit-screen-btn {
+  margin-top: -7px;
+  width: 37px;
+  height: 37px;
+}
+
+.edit-screen-btn i {
+  font-size: 1.3em;
+}
+
+.no-btn-delete {
+  margin-right: 30px;
+  margin-left: 22%;
+}

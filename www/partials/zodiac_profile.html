@@ -1,0 +1,75 @@
+<div class='bar bar-header'>
+  <button ng-click='profile_ctrl.clickedBack()' class='btn button button-clear button-dark'><i class='fa fa-chevron-left fa-2x'></i></button>
+  <h1 class='title'>Zodiac</h1>
+  <button ng-click='profile_ctrl.clickedEdit()' class='btn button button-clear button-royal'><i class='fa fa-pencil-square-o fa-2x'></i></button>
+</div>
+<div class='bar bar-subheader bar-dark'>
+  <h2 class='title'> {{ profile_ctrl.currentUser.birthday }} </h2>
+</div>
+<ion-content>
+  <br><br><br><br><br>
+  <div class='row'>
+    <p class='col col-offset-33'> {{ profile_ctrl.currentUser.email }} </p>
+  </div>
+
+
+  
+
+</ion-content>
+
+<div id='editprofile' class='modal bottom-sheet'>
+    <div class='modal-content'>
+      <div class='row'>
+        <h4 class='col'>Edit Profile Information</h4>
+        <button class='button button-outline button-dark modal-close'><i class='fa fa-window-close-o fa-2x'></i></button>
+      </div>
+      <ul class='collection'>
+        <li class='collection-item'>
+          <!-- email -->
+          <div ng-if='!profile_ctrl.isEditEmail'>
+            Change email
+            <button ng-click='profile_ctrl.userClickedMessage()' class='edit-screen-btn btn btn-floating waves-effect waves-light secondary-content indigo'><i class='fa fa-envelope-o'></i></button>
+          </div>
+
+          <div ng-if='profile_ctrl.isEditEmail'>
+             <button ng-click='profile_ctrl.userClickedSave()' class='edit-screen-btn btn btn-floating waves-effect waves-light secondary-content indigo'><i class='fa fa-database'></i></button>
+            <input ng-model='profile_ctrl.updateUserInfo.email'  type='email'>
+          </div>
+
+        </li>
+        <li class='collection-item'>
+          Change password
+           <button class='edit-screen-btn btn btn-floating waves-effect waves-light secondary-content green lighten-3'><i class='fa fa-key'></i></button>
+        </li>
+        <li class='collection-item'>
+          <div ng-if='!profile_ctrl.isEditBirthday'>
+            Change birthday
+            <button ng-click='profile_ctrl.userClickedBirthdayCake()' class='edit-screen-btn btn btn-floating waves-effect waves-light secondary-content cyan lighten-4'><i class='fa fa-birthday-cake'></i></button>
+          </div>
+
+           <div ng-if='profile_ctrl.isEditBirthday' ng-init='profile_ctrl.setPickerInit()'>
+            <button ng-click='profile_ctrl.userClickedSave()' class='edit-screen-btn btn btn-floating waves-effect waves-light secondary-content indigo'><i class='fa fa-database'></i></button>
+            <input type="date" class='datepicker unique-picker' ng-model='profile_ctrl.updateUserInfo.birthday'>
+          </div>
+
+        </li>
+        <li class='collection-item'>
+          <!-- delete -->
+          <div ng-if='!profile_ctrl.isEditDelete'>
+            Delete Account
+            <button ng-click='profile_ctrl.userClickedE()' class='edit-screen-btn btn btn-floating waves-effect waves-light secondary-content red lighten-2'><i class='fa fa-eraser'></i></button>
+          </div>
+
+          <div ng-if='profile_ctrl.isEditDelete'>
+            <p>Are you sure you want to delete your account?</p>
+            <button ng-click='profile_ctrl.userClickedNoDelete()' class='no-btn-delete btn btn-floating waves-effect waves-light pink lighten-2'>No</button>
+            <button ng-click='profile_ctrl.userClickedYesOnDelete()' class='btn btn-floating waves-effect waves-light green darken-4'>Yes</button>
+          </div>
+          
+
+        </li>
+      </ul>
+    </div>
+  </div>
+
+

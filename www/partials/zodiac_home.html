@@ -1,0 +1,64 @@
+<div class="bar bar-header">
+  <h1 class='title'>Zodiac</h1>
+</div>
+<ion-content>
+  <br><br><br>
+  
+
+  <div class='card'>
+    <div class='item item-divider'>
+      Emotions
+    </div>
+    <p class='item item-text-wrap emo'></p>
+  </div>
+
+  <div class='card'>
+    <div class='item item-divider'>
+      Health
+    </div>
+    <p class='item item-text-wrap heal'></p>
+  </div>
+
+  <div class='card'>
+    <div class='item item-divider'>
+      Luck
+    </div>
+    <p class='item item-text-wrap luck'></p>
+  </div>
+
+  <div class='card'>
+    <div class='item item-divider'>
+      Personal Life
+    </div>
+    <p class='item item-text-wrap life'></p>
+  </div>
+
+  <div class='card'>
+    <div class='item item-divider'>
+      Profession
+    </div>
+    <p class='item item-text-wrap prof'></p>
+  </div>
+
+  <div class='card'>
+    <div class='item item-divider'>
+      Travel
+    </div>
+    <p class='item item-text-wrap trav'></p>
+  </div>
+
+  
+
+
+  <div class='fixed-action-btn horizontal click-to-toggle'>
+    <a class='btn-floating btn-large blue-grey'>
+      <i class='fa fa-bars'></i>
+    </a>
+    <ul>
+      <li ng-click='zodiac_ctrl.clickedLogout()' ><a class='btn-floating deep-orange lighten-2 pulse'><i class='fa fa-sign-out'></i></a></li>
+      <li ng-click='zodiac_ctrl.clickedProfile()' ><a class='btn-floating blue lighten-2 pulse'><i class='fa fa-user'></i></a></li>
+      <li><a class='btn-floating teal lighten-2 pulse'><i class='fa fa-cogs'></i></a></li>
+      <li><a class='btn-floating indigo lighten-2 pulse'><i class='fa fa-comments'></i></a></li>
+    </ul>
+  </div>
+</ion-content>
